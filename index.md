@@ -2,6 +2,58 @@
 layout: default
 ---
 
+I am Meysam, software engineer (full stack) based in Germany.
+I am interetes in following technological trends.
+
+* * *
+
+## Work Experiences
+### - Research Engineer 
+- **Technical University of Kaiserslautern, Germany (2017 - 2021)**: Working in a fast-paced, dynamic environment and responsible for implementing
+logical and innovative solutions to complex problems.
+
+- Tasks:
+  - Design and implement neural networks (using Keras) algorithm to coordinate multi-agent systems.
+  - Research technical issues and generate creative/innovative solutions.
+  - Writing up concise and clear technical documentation and reports.
+  - Travelling to meetings, events and training.
+
+* * *
+
+### Web Developer
+- **Safhegostar Ltd., Iran (2014 - 2017)**: Responsible for developing websites, E-commerce solutions, and email campaigns
+for a number of different projects.
+
+- Tasks:
+  - Programmed and debugged in PHP, HTML and CSS.
+  - Testing a website & identifying bugs & technical problems.
+  - Optimizing web assets for optimal speed and performance.
+  - Devising SEO strategies based around specific keywords.
+  - Installation, configuration, administration of web servers.
+
+### Student Internship
+- **MIMOS Bhd. (National R&D), Malaysia (2012 - 2013)**
+
+- Tasks:
+  - Identifying/assessing various application traffic types over WiFi transmission.
+  - Setting up WiFi Testbed and analyzing its performance.
+  - Analyzing Objective video quality assessment in WLAN.
+
+* * *
+
+## Education
+
+### Network Engineering (Master)
+- University Putra Malaysia, Serdang, Malaysia
+- 2011 - 2014
+
+### Software Engineering (Bachelor)
+- Paym-e-Noor University, Shiraz, Iran
+- 2006 - 2011
+
+
+----------------------------------------------------
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
