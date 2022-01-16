@@ -64,19 +64,19 @@ layout: default
 ## 5GAuRA School, November 2018 – Barcelona, Spain
 
 - **Topic**: Open source implementation of mobile network
-- **Speaker**: Daniel camps (Universitat Politècnica de Catalunya)
+- **Speaker**: Daniel Camps (Universitat Politècnica de Catalunya)
 - **Date**: November 26, 2018
 
 - **Topic**: Exploting and extracting knowledge from cell level traces for 5G RAN.
-- **Speaker**: Eduard garcia (Universitat Politècnica de Catalunya)
+- **Speaker**: Eduard Garcia (Universitat Politècnica de Catalunya)
 - **Date**: November 26, 2018
 
 - **Topic**: Application of SDN technology to wireless technologies
-- **Speaker**: Ilker demirkol (i2CAT)
+- **Speaker**: Ilker Demirkol (i2CAT)
 - **Date**: November 26, 2018
 
 - **Topic**: NFV, MEC and furture direction for 5G networks
-- **Speaker**: Shuaib  siddiqui (i2CAT)
+- **Speaker**: Shuaib  Siddiqui (i2CAT)
 - **Date**: November 27, 2018
 
 - **Topic**: H2020 program structure, calls overview.
@@ -84,19 +84,54 @@ layout: default
 - **Date**: November 28, 2018
 
 - **Topic**: 5GPP proposal example, opportunites
-- **Speaker**: Pilar armas (Universitat Politècnica de Catalunya)
+- **Speaker**: Pilar Armas (Universitat Politècnica de Catalunya)
 - **Date**: November 28, 2018
 
 - **Topic**: H2020 evaluation process takeways
-- **Speaker**: Pouria sayyad khodashenas (i2CAT)
+- **Speaker**: Pouria Sayyad Khodashenas (i2CAT)
 - **Date**: November 28, 2018
 
 - **Topic**: MCSA programme, eligibility, evaluation, development and writing
-- **Speaker**: Marco di renzo (CNRS)
+- **Speaker**: Marco Di Renzo (CNRS)
 - **Date**: November 29, 2018
 
 - **Topic**: ERC programme, eligibility, evaluation, development and writing
-- **Speaker**: Marco di renzo (CNRS)
+- **Speaker**: Marco Di Renzo (CNRS)
 - **Date**: November 29, 2018
+
+## 5GAuRA School, November 2019 – York, UK
+
+- **Topic**: Elastic network operation, challenges and solutions
+- **Speaker**: Marco Gramaglia (University Carlos III of Madrid)
+- **Date**: April 02, 2019
+
+- **Topic**: Multi-tenancy in 5G: risks and vulnerabilities
+- **Speaker**: Stan Wong (GSMA)
+- **Date**: April 02, 2019
+
+- **Topic**: Network slicing in 5G
+- **Speaker**: Bin Han (TU Kaiserslautern)
+- **Date**: April 03, 2019
+
+- **Topic 1**: Wireless Network Intelligence at the Edge
+- **Topic 2**: Machine Learning and Deep Neural Networks An Introduction
+- **Topic 3**: Smart Radio Environments Empowered by AI Reconfigurable Meta-Surfaces Environmental AI
+- **Topic 4**: Big Data Analytics, Machine Learning and Artificial Intelligence in Next-Generation Wireless Networks
+- **Speaker**: Marco Di Renzo (CNRS)
+- **Date**: April 04, 2019
+
+- **Topic 1**: Market exploitation: Trends, products and services in the market 
+- **Topic 2**: Business Opportunities in Telecommunications, Networks and Services
+- **Topic 3**: Business Modelling in Telecoms: Market Opportunities in 5G
+- **Topic 4**: Entrepreneurial I: Market and Industry analysis
+- **Speaker**: George Agapiou (OTE)
+- **Date**: April 08, 2019
+
+- **Topic 1**: Business Strategy: trends in telecoms moving to Software 
+- **Topic 2**: Cost Modelling in Telecommunications 
+- **Topic 3**: New business models for Network Operators 
+- **Topic 4**: Entrepreneurial II: Start-up growth, innovation, Challenges, Risks, Market share
+- **Speaker**: George Agapiou (OTE)
+- **Date**: April 09, 2019
 
 [back](./)
