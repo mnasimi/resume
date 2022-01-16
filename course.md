@@ -14,4 +14,19 @@ layout: default
 - System-Level Simulators and Simulation Environments, September 26, 2017, offered by University of L’Aquila, Italy
 - WiFi, LTE, LTE-A & 5G Communication Protocols, September 25, 2017, Course offered by Telecom Paris-Tech.
 
+
+## 5Gaura school, September 2017, Paris
+
+> Topic: Stochastic Geometry for Wireless Networks
+> Speaker: Marco Di Renzo (CNRS / Paris-Saclay University, France)
+> Sep 18, 2017 
+
+> Topic: Deep Learning and Information Theory
+> Speaker: Pablo Piantanida (CentraleSupelec / Paris-Saclay University, France)
+> Sep 19, 2017
+
+
+
+
+
 [back](./)
