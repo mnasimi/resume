@@ -29,8 +29,6 @@ Tasks:
 - Devising SEO strategies based around specific keywords.
 - Installation, configuration, administration of web servers.
 
-**Environment**: PHP | Java | HTML/CSS | JavaScript | MySQL | Linux | Apache | jQuery| Bootsrap | Laravel | Wordpress | Joomla.
-
 ### Student Internship
 **MIMOS Bhd. (National R&D), Malaysia (2012 - 2013)**
 
@@ -38,8 +36,6 @@ Tasks:
 - Identifying/assessing various application traffic types over WiFi transmission.
 - Setting up WiFi Testbed and analyzing its performance.
 - Analyzing Objective video quality assessment in WLAN.
-
-**Environment**: C/C++ | Linux | wireshark | iperf | spectrum analyzer | TCP/IP | HTTP.
 
 ## Education
 
