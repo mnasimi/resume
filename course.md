@@ -2,19 +2,6 @@
 layout: default
 ---
 
-## Welcome to courses page
-
-- April 4-5, 2019: Wireless Network Intelligence at the Edge, University of York, UK
-- 5G Multi-Tenancy Network Slicing, April 2, 2019, offered by University of York
-- NFV, MEC and Future Directions for 5G, November 27, 2018, offered by i2CAT
-- Winter School on Network Optimization, January 15-19, 2018, offered by Universidade de Lisboan, Portugal
-- 5G V2X Summer School, June 11-12, 2018, offered by King’s College London
-- 3GPP and Ongoing 5G Standardization, offered by NEC Laboratories Europe), June 6, 2018
-- Deep Learning and Information Theory, September 19-20, 2017, Course offered by King’s College London
-- System-Level Simulators and Simulation Environments, September 26, 2017, offered by University of L’Aquila, Italy
-- WiFi, LTE, LTE-A & 5G Communication Protocols, September 25, 2017, Course offered by Telecom Paris-Tech.
-
-
 ## 5GAuRA school, September 2017, Paris
 
 - **Topic**: Stochastic Geometry for Wireless Networks;
@@ -74,8 +61,42 @@ layout: default
 - **Speaker**: Rebecca Pitsika (People for Business / Athens, Greece)
 - **Date**: June 7, 2018
 
+## 5GAuRA School, November 2018 – Barcelona, Spain
 
+- **Topic**: Open source implementation of mobile network
+- **Speaker**: Daniel camps (Universitat Politècnica de Catalunya)
+- **Date**: November 26, 2018
 
+- **Topic**: Exploting and extracting knowledge from cell level traces for 5G RAN.
+- **Speaker**: Eduard garcia (Universitat Politècnica de Catalunya)
+- **Date**: November 26, 2018
 
+- **Topic**: Application of SDN technology to wireless technologies
+- **Speaker**: Ilker demirkol (i2CAT)
+- **Date**: November 26, 2018
+
+- **Topic**: NFV, MEC and furture direction for 5G networks
+- **Speaker**: Shuaib  siddiqui (i2CAT)
+- **Date**: November 27, 2018
+
+- **Topic**: H2020 program structure, calls overview.
+- **Speaker**: Esther  Alsina (Universitat Politècnica de Catalunya)
+- **Date**: November 28, 2018
+
+- **Topic**: 5GPP proposal example, opportunites
+- **Speaker**: Pilar armas (Universitat Politècnica de Catalunya)
+- **Date**: November 28, 2018
+
+- **Topic**: H2020 evaluation process takeways
+- **Speaker**: Pouria sayyad khodashenas (i2CAT)
+- **Date**: November 28, 2018
+
+- **Topic**: MCSA programme, eligbility, evaluation, development and writing
+- **Speaker**: Marco di renzo (CNRS)
+- **Date**: November 29, 2018
+
+- **Topic**: ERC programme, eligbility, evaluation, development and writing
+- **Speaker**: Marco di renzo (CNRS)
+- **Date**: November 29, 2018
 
 [back](./)
