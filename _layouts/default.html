@@ -23,9 +23,11 @@
         
         <ul>
           <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-          <li><a href="{{site.baseurl}}/page/course">Course</a></li>
-          <li><a href="{{ "page/conference"}}">Conference</a></li>
-          <li><a href="{{ "page/publication"}}">Publications</a></li>
+          <li><a href="{{site.baseurl}}/page/" {% if page.url == '/course/' %} class="current" {% endif %}>Courses</a></li>
+          <li><a href="{{site.baseurl}}/page/conference">Conference</a></li>
+          <li><a href="{{site.baseurl}}/page/publication">Publications</a></li>
+          
+          
         </ul>  
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
