@@ -91,11 +91,11 @@ layout: default
 - **Speaker**: Pouria sayyad khodashenas (i2CAT)
 - **Date**: November 28, 2018
 
-- **Topic**: MCSA programme, eligbility, evaluation, development and writing
+- **Topic**: MCSA programme, eligibility, evaluation, development and writing
 - **Speaker**: Marco di renzo (CNRS)
 - **Date**: November 29, 2018
 
-- **Topic**: ERC programme, eligbility, evaluation, development and writing
+- **Topic**: ERC programme, eligibility, evaluation, development and writing
 - **Speaker**: Marco di renzo (CNRS)
 - **Date**: November 29, 2018
 
