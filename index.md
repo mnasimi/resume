@@ -16,7 +16,6 @@ Tasks:
 - Writing up concise and clear technical documentation and reports.
 - Travelling to meetings, events and training.
 
-**Environment**: Python | MATLAB | Algorithms | Github | AWS | CI | Machine Learning | VM/Container | Edge/Cloud Computing. 
 
 ### Web Developer
 **Safhegostar Ltd., Iran (2014 - 2017)**: Responsible for developing websites, E-commerce solutions, and email campaigns
