@@ -5,6 +5,8 @@ layout: default
 I am Meysam, software engineer (full stack) based in Germany.
 I am interetes in following technological trends.
 
+* * *
+
 ## Work Experiences
 ### Research Engineer 
 **Technical University of Kaiserslautern, Germany (2017 - 2021)**: Working in a fast-paced, dynamic environment and responsible for implementing
@@ -16,6 +18,7 @@ Tasks:
 - Writing up concise and clear technical documentation and reports.
 - Travelling to meetings, events and training.
 
+* * *
 
 ### Web Developer
 **Safhegostar Ltd., Iran (2014 - 2017)**: Responsible for developing websites, E-commerce solutions, and email campaigns
@@ -36,6 +39,8 @@ Tasks:
 - Setting up WiFi Testbed and analyzing its performance.
 - Analyzing Objective video quality assessment in WLAN.
 
+* * *
+
 ## Education
 
 ### Network Engineering (Master)
@@ -45,7 +50,6 @@ Tasks:
 ### Software Engineering (Bachelor)
 - Paym-e-Noor University, Shiraz, Iran
 - 2006 - 2011
-
 
 
 ----------------------------------------------------
