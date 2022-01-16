@@ -38,13 +38,11 @@ IEEE Access, March 2019.
 { M. Nasimi, F. Hashim, A. Sali and RK. Zakia. "QoE-Driven Cross-Layer Scheduling for Heterogeneous traffics over 4G Networks". In Wireless Personal Communication (Springer US), 1-26, 2017
 
 
-###### Header 6
+###### Journals
 
-| head1        | head two          | three |
+| Title       | Publisher         | Date |
 |:-------------|:------------------|:------|
-| A Comprehensive Study of RAN Architectures Toward 5G Mobile Communication System           | IEEE Access | March 2019  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| A Comprehensive Study of RAN Architectures Toward 5G Mobile Communication System           | IEEE | 2019  |
+|QoE-Driven Cross-Layer Scheduling for Heterogeneous traffics over 4G Networks | Springer   | nice  | 2017  |
 
 [back](./)
