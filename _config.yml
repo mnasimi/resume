@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Meysam's Resume
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: A place to introduce myself
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
