@@ -18,11 +18,16 @@ layout: default
 ## 5Gaura school, September 2017, Paris
 
 > Topic: Stochastic Geometry for Wireless Networks
+> 
 > Speaker: Marco Di Renzo (CNRS / Paris-Saclay University, France)
+> 
 > Sep 18, 2017 
 
+
 > Topic: Deep Learning and Information Theory
+> 
 > Speaker: Pablo Piantanida (CentraleSupelec / Paris-Saclay University, France)
+> 
 > Sep 19, 2017
 
 
