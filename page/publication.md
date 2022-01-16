@@ -4,134 +4,37 @@ layout: default
 
 ## 5GAuRA school, September 2017, Paris
 
-- **Topic**: Stochastic Geometry for Wireless Networks;
-- **Speaker**: Marco Di Renzo (CNRS / Paris-Saclay University, France);
-- **Date**: Sep 18, 2017 
+### Conference:
+{ M. Nasimi, M. A. Habibi, H. D. Schotten, "Platoon–assisted Vehicular Cloud
+in VANET: Vision and Challenges", European Symposium on Computer and
+Communications (ESCC 2019), 20-22 November 2019, Paris - France.
+{ M. Nasimi, M. A. Habibi, B. Han, M. Irazabal, M. H. Kaffi, "D3.3: RAN
+Analytics Mechanisms and Performance Benchmarking of Video, Time Critical,
+and Social Applications", March 2019.
+{ M. A. Habibi, Bin Han, M. Nasimi, and Hans D. Schotten "The Structure
+of Service Level Agreement of Slice-based 5G Network", IEEE International
+Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC),
+9-12 September 2018, 9-12 September, Bologna - Italy
+{ M. Nasimi, M. A. Habibi, B. Han, and H. D. Schotten, “Edge-Assisted Congestion
+Control Mechanism for 5G Network Using Software-Defined Networking”, IEEE
+International Symposium on Wireless Communication Systems (ISWCS 2018),
+28-31 August 2018, Lisbon – Portugal.
+{ M. Nasimi, M. A. Habibi, Bin Han, M. H. Kafi, "D3.2: Design and Evaluation
+of Service-Oriented RAN Architectures", November 2017.
+{ M. Nasimi, M. Kousha and F. Hashim, "QoE-oriented cross-layer downlink
+scheduling for heterogeneous traffics in LTE networks," 2013 IEEE 11th Malaysia
+International Conference on Communications (MICC), Kuala Lumpur, 2013, pp.
+292-297.
+{ M. Nasimi, D. Naghshbandi, M. Sazali, K. N. Choong, "Experimental Study
+on Enterprise Wireless Network Performance," 2013 International Conference on
+Information Technology Infrastructure 2013 (ITinfra2013), Kuala Lumpur.
+{ M. Nasimi, F. Hashim and C. K. Ng, "Characterizing energy efficiency for
+heterogeneous cellular networks," 2012 IEEE Student Conference on Research and
+Development (SCOReD), Pulau Pinang, 2012, pp. 198-202.
 
-
-- **Topic**: Deep Learning and Information Theory;
-- **Speaker**: Pablo Piantanida (CentraleSupelec / Paris-Saclay University, France);
-- **Date**: Sep 19, 2017
-
-- **Topic**: Optimization and Game Theory;
-- **Speaker**: Alessio Zappone (CentraleSupelec / University of Cassino, France & Italy);
-- **Date**: Sep 20, 2017
-
-- **Topic**: Millimeter-Wave Communications
-- **Speaker**: Claudio Sacchi (University of Trento, Italy)
-- **Date**: Sep 21, 2017
-
-- **Topic**: Channel Modeling for Radio System Analysis and Design
-- **Speaker**: Katsuyuki Haneda (Aalto University, Finland)
-- **Date**: Sep 22, 2017
-
-- **Topic**: Cooperation, Relaying and Network Coding
-- **Speaker**: Jan Sykora (Czech Technical University in Prague, Czech Republic)
-- **Date**: Sep 25, 2017
-
-- **Topic 1**: System-Level Simulators and Simulation Environments
-- **Topic 2**: Caching and Device-to-Device Communications
-- **Speaker**: Stefano Tennina (WEST & University of L'Aquila, Italy)
-- **Date**: Sep 26, 2017
-
-
-## 5GAuRA School, June 2018 – Kaiserslautern, Germany
-
-- **Topic**: Future Network Paradigms – From Vision to Reality
-- **Speaker**: Z. Yousaf (NEC / Heidelberg, Germany)
-- **Date**: June 4, 2018
-
-- **Topic**: Understanding Patents
-- **Speaker**: B. Lamparter (NEC / Heidelberg, Germany)
-- **Date**: June 4, 2018
-
-- **Topic**: Multi-access Edge Computing: Overview of the Technology and Activities in ETSI MEC
-- **Speaker**: F. Giust (NEC / Heidelberg, Germany)
-- **Date**: June 5, 2018
-
-- **Topic**: 3GPP and Ongoing 5G Standardization
-- **Speaker**: S. Singh (NEC / Heidelberg, Germany)
-- **Date**: June 5, 2018
-
-- **Topic**: Career Strategy
-- **Speaker**: Rebecca Pitsika (People for Business / Athens, Greece)
-- **Date**: June 6, 2018
-
-- **Topic**: No “I” in the “Team”
-- **Speaker**: Rebecca Pitsika (People for Business / Athens, Greece)
-- **Date**: June 7, 2018
-
-## 5GAuRA School, November 2018 – Barcelona, Spain
-
-- **Topic**: Open source implementation of mobile network
-- **Speaker**: Daniel Camps (Universitat Politècnica de Catalunya)
-- **Date**: November 26, 2018
-
-- **Topic**: Exploting and extracting knowledge from cell level traces for 5G RAN.
-- **Speaker**: Eduard Garcia (Universitat Politècnica de Catalunya)
-- **Date**: November 26, 2018
-
-- **Topic**: Application of SDN technology to wireless technologies
-- **Speaker**: Ilker Demirkol (i2CAT)
-- **Date**: November 26, 2018
-
-- **Topic**: NFV, MEC and furture direction for 5G networks
-- **Speaker**: Shuaib  Siddiqui (i2CAT)
-- **Date**: November 27, 2018
-
-- **Topic**: H2020 program structure, calls overview.
-- **Speaker**: Esther  Alsina (Universitat Politècnica de Catalunya)
-- **Date**: November 28, 2018
-
-- **Topic**: 5GPP proposal example, opportunites
-- **Speaker**: Pilar Armas (Universitat Politècnica de Catalunya)
-- **Date**: November 28, 2018
-
-- **Topic**: H2020 evaluation process takeways
-- **Speaker**: Pouria Sayyad Khodashenas (i2CAT)
-- **Date**: November 28, 2018
-
-- **Topic**: MCSA programme, eligibility, evaluation, development and writing
-- **Speaker**: Marco Di Renzo (CNRS)
-- **Date**: November 29, 2018
-
-- **Topic**: ERC programme, eligibility, evaluation, development and writing
-- **Speaker**: Marco Di Renzo (CNRS)
-- **Date**: November 29, 2018
-
-## 5GAuRA School, November 2019 – York, UK
-
-- **Topic**: Elastic network operation, challenges and solutions
-- **Speaker**: Marco Gramaglia (University Carlos III of Madrid)
-- **Date**: April 02, 2019
-
-- **Topic**: Multi-tenancy in 5G: risks and vulnerabilities
-- **Speaker**: Stan Wong (GSMA)
-- **Date**: April 02, 2019
-
-- **Topic**: Network slicing in 5G
-- **Speaker**: Bin Han (TU Kaiserslautern)
-- **Date**: April 03, 2019
-
-- **Topic 1**: Wireless Network Intelligence at the Edge
-- **Topic 2**: Machine Learning and Deep Neural Networks An Introduction
-- **Topic 3**: Smart Radio Environments Empowered by AI Reconfigurable Meta-Surfaces Environmental AI
-- **Topic 4**: Big Data Analytics, Machine Learning and Artificial Intelligence in Next-Generation Wireless Networks
-- **Speaker**: Marco Di Renzo (CNRS)
-- **Date**: April 04, 2019
-
-- **Topic 1**: Market exploitation: Trends, products and services in the market 
-- **Topic 2**: Business Opportunities in Telecommunications, Networks and Services
-- **Topic 3**: Business Modelling in Telecoms: Market Opportunities in 5G
-- **Topic 4**: Entrepreneurial I: Market and Industry analysis
-- **Speaker**: George Agapiou (OTE)
-- **Date**: April 08, 2019
-
-- **Topic 1**: Business Strategy: trends in telecoms moving to Software 
-- **Topic 2**: Cost Modelling in Telecommunications 
-- **Topic 3**: New business models for Network Operators 
-- **Topic 4**: Entrepreneurial II: Start-up growth, innovation, Challenges, Risks, Market share
-- **Speaker**: George Agapiou (OTE)
-- **Date**: April 09, 2019
+### Journal:
+{ Mohammad Asif Habibi, M. Nasimi, B. Han and H. D. Schotten, "A Comprehensive Study of RAN Architectures Toward 5G Mobile Communication System",
+IEEE Access, March 2019.
+{ M. Nasimi, F. Hashim, A. Sali and RK. Zakia. "QoE-Driven Cross-Layer Scheduling for Heterogeneous traffics over 4G Networks". In Wireless Personal Communication (Springer US), 1-26, 2017
 
 [back](./)
