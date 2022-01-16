@@ -15,20 +15,41 @@ layout: default
 - WiFi, LTE, LTE-A & 5G Communication Protocols, September 25, 2017, Course offered by Telecom Paris-Tech.
 
 
-## 5Gaura school, September 2017, Paris
+## 5GAuRa school, September 2017, Paris
 
-> Topic: Stochastic Geometry for Wireless Networks
-> 
-> Speaker: Marco Di Renzo (CNRS / Paris-Saclay University, France)
-> 
-> Sep 18, 2017 
+> **Topic**: Stochastic Geometry for Wireless Networks;
+> **Speaker**: Marco Di Renzo (CNRS / Paris-Saclay University, France);
+> **Date**: Sep 18, 2017 
 
 
-> Topic: Deep Learning and Information Theory
-> 
-> Speaker: Pablo Piantanida (CentraleSupelec / Paris-Saclay University, France)
-> 
-> Sep 19, 2017
+> **Topic**: Deep Learning and Information Theory;
+> **Speaker**: Pablo Piantanida (CentraleSupelec / Paris-Saclay University, France);
+> **Date**: Sep 19, 2017
+
+> **Topic**: Optimization and Game Theory;
+> **Speaker**: Alessio Zappone (CentraleSupelec / University of Cassino, France & Italy);
+> **Date**: Sep 20, 2017
+
+> **Topic**: Millimeter-Wave Communications
+> **Speaker**: Claudio Sacchi (University of Trento, Italy)
+> **Date**: Sep 21, 2017
+
+> **Topic**: Channel Modeling for Radio System Analysis and Design
+> **Speaker**: Katsuyuki Haneda (Aalto University, Finland)
+> **Date**: Sep 22, 2017
+
+> **Topic**: Cooperation, Relaying and Network Coding
+> **Speaker**: Jan Sykora (Czech Technical University in Prague, Czech Republic)
+> **Date**: Sep 25, 2017
+
+> **Topic 1**: System-Level Simulators and Simulation Environments
+> **Topic 2**: Caching and Device-to-Device Communications
+> **Speaker**: Stefano Tennina (WEST & University of L'Aquila, Italy)
+> **Date**: Sep 26, 2017
+
+
+
+
 
 
 
