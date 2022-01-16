@@ -2,8 +2,8 @@
 layout: default
 ---
 
-I am Meysam, software engineer (full stack) based in Giessen, Germany.
-I am interetes in following technological trends, and facilitating early adaption of innovations.
+I am Meysam, software engineer (full stack) based in Germany.
+I am interetes in following technological trends.
 
 ## Work Experiences
 ### Research Engineer 
