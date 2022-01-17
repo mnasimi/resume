@@ -133,5 +133,3 @@ layout: default
 - **Topic 4**: Entrepreneurial II: Start-up growth, innovation, Challenges, Risks, Market share
 - **Speaker**: George Agapiou (OTE)
 - **Date**: April 09, 2019
-
-[back](./)
